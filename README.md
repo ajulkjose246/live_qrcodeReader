@@ -14,7 +14,7 @@ live_qrcodeReader is a Python-based project designed to read and decode QR codes
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/live_qrcodeReader.git
+    git clone https://github.com/ajulkjose246/live_qrcodeReader.git
     ```
 
 2. Navigate to the project directory:
